@@ -3,12 +3,14 @@
 	border: 1px solid black;
 	margin:auto;
 	font-size: 0px;
+
 }
 
 .inner {
 	height: 200px;
 	width: 50%;
 	display:inline-block;
+	border:1px solid black;
 }
 
 .green {
@@ -23,6 +25,7 @@
 	height: 300px;
 	width:33.33%;
 	display: inline-block;
+	border:1px solid black;
 }
 
 .grey {
