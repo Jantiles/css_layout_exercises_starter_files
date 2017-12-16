@@ -1,0 +1,108 @@
+
+nav {
+	background-color: grey;
+	width: 83%;
+	height: 60px;
+	text-align: right;
+}
+
+.logo{
+	font-size: 32px;
+	position: absolute;	
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.navigation {
+	list-style: none;
+}
+
+.navigation li {
+	display: inline-block;
+	font-size: 20px;
+	padding-right: 10px;
+	padding-top: 20px;
+	margin-right: 10px;
+}
+
+.container {
+	height:200px;
+	width: 100%;
+	padding-top: 30px;
+}
+
+.title {
+	padding-left: 40px;
+	font-size: 24px;
+}
+
+input[type=text] {
+	height:35px;
+	width:45%;
+	margin-left: 40px;
+}
+
+input,input::-webkit-input-placeholder {
+    font-size: 20px;
+    line-height: 3;
+}
+
+.container img {
+	height:45px;
+	border:1px solid grey;
+}
+
+.dynamic {
+	width:40%;
+	height:75px;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+
+.dynamic p {
+	font-size: 19px;
+	text-align: center;
+}
+
+.middle.box{
+	width:38%
+}
+
+.box {
+	height: 100%;
+	width:30%;
+	display: inline-block;
+	border: 1px solid grey;
+}
+
+.left {
+	float: left;
+}
+
+.right{
+	float:right;
+}
+
+.dynamic.results {
+	width: 40%;
+	height:100%;
+}
+
+.dynamic.results .box {
+	border:0px;
+}
+
+.grey {
+	color:grey;
+}
+
+.blue {
+	color:blue;
+}
+
+
+
+
+
+
+
